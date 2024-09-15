@@ -1,4 +1,5 @@
-export const apiKey = '04d2e26a5b4643739a9164648240909';
+export const apiKey = 'your api-key';
+// can be found at https://openweathermap.org/api
 
 export const weatherImages = {
     'Partly cloudy': require('../assets/images/partlycloudy.png'),
